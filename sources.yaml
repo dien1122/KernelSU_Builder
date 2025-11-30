@@ -1,6 +1,6 @@
 LineageOS-20:
   kernel:
-    - git clone https://github.com/HowWof/android_kernel_realme_mt6785.git -b lineage-20
+    - git clone https://github.com/dien1122/android_device_samsung_kernel_b2q.git
   clang:
     - git clone --depth=1 https://gitlab.com/Jprimero15/lolz_clang.git -b main
   config:
@@ -16,7 +16,7 @@ LineageOS-20:
 
 Zenitsu:
   kernel:
-    - git clone https://github.com/Killerpac/android_kernel_realme_mt6785 -b zenitsu-bak
+    - git clone https://github.com/dien1122/android_device_samsung_kernel_b2q.git
   clang:
     - git clone --depth=1 https://gitlab.com/Jprimero15/lolz_clang.git -b main
   config:
@@ -32,7 +32,7 @@ Zenitsu:
 
 DivestOS-13:
   kernel:
-    - git clone https://github.com/HowWof/android_kernel_realme_mt6785.git -b divest-13
+    - git clone https://github.com/dien1122/android_device_samsung_kernel_b2q.git
   clang:
     - git clone --depth=1 https://gitlab.com/Jprimero15/lolz_clang.git -b main
   config:
@@ -49,7 +49,7 @@ DivestOS-13:
 
 Sage-Android-14:
   kernel:
-    - git clone https://github.com/Killerpac/android_kernel_realme_mt6785.git -b udc
+    - git clone https://github.com/dien1122/android_device_samsung_kernel_b2q.git
   clang:
     - git clone --depth=1 https://gitlab.com/Jprimero15/lolz_clang.git -b main
   config:
